@@ -50,45 +50,21 @@
               "outputPath": "dist/my-project-fr/",
               "i18nFile": "src/locale/messages.fr.xlf",
               "i18nFormat": "xlf",
-              "i18nLocale": "fr",
-              "optimization": false,
-              "outputHashing": "all",
-              "sourceMap": true,
-              "extractCss": true,
-              "namedChunks": false,
-              "extractLicenses": true,
-              "vendorChunk": false,
-              "buildOptimizer": false
+              "i18nLocale": "fr"
             },
             "es": {
               "aot": true,
               "outputPath": "dist/my-project-es/",
               "i18nFile": "src/locale/messages.es.xlf",
               "i18nFormat": "xlf",
-              "i18nLocale": "es",
-              "optimization": false,
-              "outputHashing": "all",
-              "sourceMap": true,
-              "extractCss": true,
-              "namedChunks": false,
-              "extractLicenses": true,
-              "vendorChunk": false,
-              "buildOptimizer": false
+              "i18nLocale": "es"
             },
             "af": {
               "aot": true,
               "outputPath": "dist/my-project-af/",
               "i18nFile": "src/locale/messages.af.xlf",
               "i18nFormat": "xlf",
-              "i18nLocale": "af",
-              "optimization": false,
-              "outputHashing": "all",
-              "sourceMap": true,
-              "extractCss": true,
-              "namedChunks": false,
-              "extractLicenses": true,
-              "vendorChunk": false,
-              "buildOptimizer": false
+              "i18nLocale": "af"
             }
           }
         },
