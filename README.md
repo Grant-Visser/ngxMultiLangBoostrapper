@@ -4,6 +4,8 @@ Angular 6 Basic project with support for multiple languages
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
+Please note, the translations are not complete at current. [Tiny Translator](https://github.com/martinroob/tiny-translator) was being used to do the translations manually, because I didn't feel comfortable creating an API key for Google translate services for this simple proof of concept application.
+
 ## Running the application
 
 - English - `npm run start`start will run on port 4200
