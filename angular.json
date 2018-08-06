@@ -75,20 +75,23 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
             "browserTarget": "localisationDemoApp:build",
-            "port": 1337
+            "port": 4200
           },
           "configurations": {
             "production": {
               "browserTarget": "localisationDemoApp:build:production"
             },
             "fr": {
-              "browserTarget": "localisationDemoApp:build:fr"
+              "browserTarget": "localisationDemoApp:build:fr",
+              "port": 4201
             },
             "es": {
-              "browserTarget": "localisationDemoApp:build:es"
+              "browserTarget": "localisationDemoApp:build:es",
+              "port": 4202
             },
             "af": {
-              "browserTarget": "localisationDemoApp:build:af"
+              "browserTarget": "localisationDemoApp:build:af",
+              "port": 4203
             }
           }
         },
